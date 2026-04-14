@@ -14,7 +14,6 @@ public class Job {
 
     @Setter
     @Getter
-    @NotBlank
     private String companyName;
 
     @Setter
